@@ -1,0 +1,1 @@
+This repository demonstrates a common Elixir error involving unhandled exceptions.  The `my_function` in `bug.exs` raises an exception without providing specific context or a more informative error message. The solution in `bugSolution.exs` demonstrates how to handle the exception gracefully and provide more helpful feedback.
